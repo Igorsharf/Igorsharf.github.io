@@ -88,11 +88,12 @@ body.active {
 hr{
 	border-style: none none dotted none;
 	color: #706c61;
-	border-width: 8px;
-	width: 10%;
+	border-width: 10px;
+	width: 50%;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	text-align: center;
+	display: inline-block;
   
   }
   .no-js #experience-timeline > div {
